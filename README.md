@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:0066ff&height=250&section=header&text=Nikit%20Kushwaha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h2 align="center">🚀 Full Stack Developer | React.js • Node.js • Next.js</h2>
+<h2 align="center">🚀 Software Developer | </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=23&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Frontend+%26+Backend+Developer;Problem+Solver+%7C+Tech+Lover;Open+to+Opportunities+and+Internships" />
